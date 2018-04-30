@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FrontPage.unity
+    guid: 37023d790ed690248b10c9ea9b969aca
+  - enabled: 1
+    path: Assets/Scenes/characterScene.unity
+    guid: 7d33fa82e75777f4ba28d7345ec404ff
+  - enabled: 1
+    path: Assets/DitteVersion.unity
+    guid: 41f0000df9f55d14bb0a9161e85e0898
