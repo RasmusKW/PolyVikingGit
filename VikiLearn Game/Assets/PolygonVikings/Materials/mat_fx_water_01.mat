@@ -12,16 +12,16 @@ Material:
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: fb6566c21f717904f83743a5a76dd0b0, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Texture: {fileID: 2800000, guid: 5fbcffe9c2077f04186883cb39275fcc, type: 3}
+        m_Scale: {x: 10, y: 1302}
+        m_Offset: {x: 130123, y: 12313}
     - _Caustics:
         m_Texture: {fileID: 2800000, guid: eb9e91ee4c264b942a46baeec92ca0a4, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -52,7 +52,7 @@ Material:
         m_Offset: {x: 1, y: 1}
     - _ReflectionTex:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 123123, y: 1.21}
         m_Offset: {x: 0, y: 0}
     - _ReflectiveColor:
         m_Texture: {fileID: 2800000, guid: 17680dc3bf8f74b498b01cf1481e2593, type: 3}
@@ -125,7 +125,7 @@ Material:
     - WaveSpeed: {r: 1.086165, g: 4.440575, b: 12.105146, a: -3.0206447}
     - _AnimationDirection: {r: 0, g: 0, b: 0, a: 0}
     - _AnimationTiling: {r: 0, g: 0, b: 0, a: 0}
-    - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BumpDirection: {r: 0, g: 0, b: 0, a: 0}
     - _BumpMap_ST: {r: 1, g: 1, b: 0, a: 0}
     - _BumpTiling: {r: 0, g: 0, b: 0, a: 0}
@@ -139,16 +139,16 @@ Material:
     - _Foam: {r: 1, g: 1, b: 1, a: 1}
     - _FoamWaveParams: {r: 0, g: 0.24918434, b: 3.3395782, a: 1}
     - _Fresnel_ST: {r: 1, g: 1, b: 0, a: 0}
-    - _GAmplitude: {r: 1, g: 1, b: 1, a: 1}
-    - _GDirectionAB: {r: 3, g: 0, b: 0, a: 0}
+    - _GAmplitude: {r: 1, g: 1.36, b: 0.79, a: 0.31}
+    - _GDirectionAB: {r: 1, g: 0, b: 0, a: 0}
     - _GDirectionCD: {r: 0, g: 0, b: 0, a: 0}
-    - _GFrequency: {r: 0.3, g: 0.2, b: 0.2, a: 2}
-    - _GSpeed: {r: 0, g: 0, b: 0, a: 0}
-    - _GSteepness: {r: 1, g: 1, b: 1, a: 2}
+    - _GFrequency: {r: 4, g: 0, b: 1, a: 1}
+    - _GSpeed: {r: 0.1, g: 0, b: 0, a: 0}
+    - _GSteepness: {r: 1, g: 1, b: 1, a: 14}
     - _HorizonColor: {r: 0.052907113, g: 0.24486735, b: 0.2835821, a: 1}
     - _InvFadeParemeter: {r: 0.03, g: 2, b: 0, a: 0}
     - _MainTex_ST: {r: 1, g: 1, b: 0, a: 0}
-    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 0}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _ReflectionTex_ST: {r: 1, g: 1, b: 0, a: 0}
     - _ReflectiveColorCube_ST: {r: 1, g: 1, b: 0, a: 0}
     - _ReflectiveColor_ST: {r: 1, g: 1, b: 0, a: 0}
